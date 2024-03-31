@@ -12,3 +12,7 @@ Nejra Aličković
 
 ### Broj indexa
 5932/M
+
+### Informacije o meni
+* Datum rodjenja: 20.5.2001.
+* Srednja škola: Prva gimnazija u Sarajevu
